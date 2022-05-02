@@ -1,2 +1,2 @@
-# solid-session
-Session materials to demonstrate SOLID principles
+# Clean Programming Practices
+This repo contains a PPT and code samples to demonstrate the SOLID principles.
